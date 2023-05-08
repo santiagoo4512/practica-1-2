@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 5;
+    padding: 5;
+}
+html{
+    font-size: 100.5%;
+}
+.container{
+    background-color: rgb(161, 122, 122);
+}
+.img{
+   height:100px ;
+   
+}
